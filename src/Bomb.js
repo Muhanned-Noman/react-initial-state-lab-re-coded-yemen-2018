@@ -9,7 +9,7 @@ class Bomb extends React.Component {
     super(props) 
 
     this.state = {
-      secondsLeft: 0
+      secondsLeft: this.props.initialCount
     }
   }
 
