@@ -1,7 +1,7 @@
 // your Bomb code here!
 
 import React from 'react';
-
+https://learn.co/tracks/re-coded-front-end-web-development/react/state-and-events/initial-state-lab#
 
 class Bomb extends React.Component {
 
