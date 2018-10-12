@@ -9,7 +9,7 @@ class Bomb extends React.Component {
     super() 
 
     this.state = {
-      currentSlideIndex: 0
+      secondsLeft: 0
     }
   }
 
