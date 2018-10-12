@@ -3,7 +3,7 @@
 import React from 'react';
 
 
-class Bomb  extends React.Component {
+class Bomb extends React.Component {
 
   constructor() {
     super() 
